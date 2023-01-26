@@ -1,0 +1,9 @@
+*.log
+*.csv
+*.xml
+.DS_Store
+.idea/
+*.pdf
+*.jpeg
+*.jpg
+*.png
