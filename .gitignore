@@ -10,4 +10,6 @@
 *.png
 datasets/
 *.sqlite
+.ipynb_checkpoints/
 .*checkpoints/
+*checkpoint.ipynb
