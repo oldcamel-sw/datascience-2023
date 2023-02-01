@@ -13,3 +13,5 @@ datasets/
 .ipynb_checkpoints/
 .*checkpoints/
 *checkpoint.ipynb
+*.avi
+*.mp4
